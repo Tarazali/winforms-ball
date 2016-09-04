@@ -1,0 +1,9 @@
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\bin\Debug\FuBall.exe.config
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\bin\Debug\FuBall.exe
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\bin\Debug\FuBall.pdb
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\obj\Debug\FuBall.csprojResolveAssemblyReference.cache
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\obj\Debug\FuBall.Form1.resources
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\obj\Debug\FuBall.Properties.Resources.resources
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\obj\Debug\FuBall.csproj.GenerateResource.Cache
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\obj\Debug\FuBall.exe
+c:\users\tarazali\documents\visual studio 2015\Projects\FuBall\FuBall\obj\Debug\FuBall.pdb
